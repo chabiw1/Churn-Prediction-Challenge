@@ -1,7 +1,7 @@
-# Data Science Challenge : Customer Churn Prediction📱🤔
+# Data Science Challenge : Customer Churn Prediction📱
 Welcome to my project for the [Data Science Challenge organized by Coursera](https://www.coursera.org/learn/data-science-challenge) In this challenge, I was taking on real-world problem that is critical to many industries: predicting customer churn.
 
-## 📱 Project Introduction
+## 🤔 Project Introduction
 Subscription services are leveraged by companies across many industries, from fitness to video streaming to retail. One of the primary objectives of companies with subscription services is to decrease churn and ensure that users are retained as subscribers. In order to do this efficiently and systematically, many companies employ machine learning to predict which users are at the highest risk of churn, so that proper interventions can be effectively deployed to the right audience.
 
 ## 🚀 My Journey
