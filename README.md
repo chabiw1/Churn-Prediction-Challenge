@@ -1,4 +1,4 @@
-# Data Science Challenge : Customer Churn Prediction 📱🤔
+# Data Science Challenge : Customer Churn Prediction📱🤔
 Welcome to my project for the [Data Science Challenge organized by Coursera](https://www.coursera.org/learn/data-science-challenge) In this challenge, I was taking on real-world problem that is critical to many industries: predicting customer churn.
 
 ## 📱 Project Introduction
